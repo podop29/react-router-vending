@@ -1,0 +1,28 @@
+
+.Machine{
+    background-color: grey;
+    margin: 0 35% 0 35%;
+    padding-bottom: 20%;
+    border: 2px black solid;
+    border-radius: 50px;
+
+}
+
+.cheese{
+    color: yellow;
+}
+.choices{
+    background-color: white;
+    margin: 50px 10% 0 10%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 2px black solid;
+    border-radius: 50px;
+}
+.choice{
+    margin: 1rem;
+    color: black;
+    border: 2px black solid;
+    border-radius: 5px;
+    padding: 2px;
+}

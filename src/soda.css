@@ -1,0 +1,17 @@
+.Soda{
+    background-color: blue;
+    margin: 20px 45%;
+
+    padding-bottom: 12rem;
+    border: 2px red solid;
+    border-radius: 30px;
+    color: white;
+}
+
+.red{
+    background-color: red;
+    padding-left: 90%;
+    margin-top: 50px;
+    border-radius: 30px;
+
+}
